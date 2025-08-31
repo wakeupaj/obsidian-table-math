@@ -1,0 +1,11 @@
+{
+	"id": "table-math",
+	"name": "Table Math",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Add spreadsheet-like math calculations to markdown tables with automatic totals and live updates.",
+	"author": "aj",
+	"authorUrl": "https://github.com/wakeupaj",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
